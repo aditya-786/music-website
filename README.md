@@ -1,9 +1,6 @@
-# Music Website 
+# IntProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
-
-##Install npm package
-Run npm install
 
 ## Development server
 
